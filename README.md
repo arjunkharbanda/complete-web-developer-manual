@@ -18,10 +18,10 @@ All resources and notes from the Complete Web Developer in 2018: Zero to Mastery
 ******************************************************************************************
 ## 4. __HTML 5__
 
-
 Install  sublime text 3
-*	https://www.sublimetext.com/
-
+*	[Sublime Text](https://www.sublimetext.com/)
+Or You can use one of the following
+*   [Atom](https://www.atom.io)
 Reference websites:
 *	https://www.w3schools.com/
 *	https://stackoverflow.com/
@@ -47,7 +47,7 @@ Reference websites:
 website for color check:
 *	http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
-website for fonts download:
+website for fonts download:d
 *	https://fonts.google.com/
 
 
