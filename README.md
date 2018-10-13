@@ -18,13 +18,18 @@ All resources and notes from the Complete Web Developer in 2018: Zero to Mastery
 ******************************************************************************************
 ## 4. __HTML 5__
 
-Install  sublime text 3
-*	[Sublime Text](https://www.sublimetext.com/)
+ - Install [Sublime Text 3](https://www.sublimetext.com/)
+ 
+
 Or You can use one of the following
+
 *   [Atom](https://www.atom.io)
+*   [VSCode](https://code.visualstudio.com/)
+
 Reference websites:
-*	https://www.w3schools.com/
-*	https://stackoverflow.com/
+
+*	[W3School](https://www.w3schools.com/)
+*	[StackOverflow](https://stackoverflow.com/)
 
 
 ******************************************************************************************
@@ -36,19 +41,19 @@ Reference websites:
 
 
 Reference websites:
-*	https://css-tricks.com/
-*	https://www.supremo.co.uk/typeterms/
-*	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+*	[CSS Tricks](https://css-tricks.com/)
+*	[Type Terms](https://www.supremo.co.uk/typeterms/)
+*	[Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 *	https://waitbutwhy.com/
-*	https://unsplash.com/
-* https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
+*	[Unsplash](https://unsplash.com/)
+* https://developer.mozilla.org/en/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
 *	https://specificity.keegan.st/
 
 website for color check:
 *	http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
 website for fonts download:d
-*	https://fonts.google.com/
+*	[Google Fonts](https://fonts.google.com/)
 
 
 ******************************************************************************************
@@ -56,34 +61,34 @@ website for fonts download:d
 
 
 Reference websites:
-*	https://caniuse.com/
-*	https://www.w3schools.com/cssref/css3_browsersupport.asp
+*	[caniuse.com](https://caniuse.com/)
+*	[CSS Reference Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp)
 
 ******************************************************************************************
 ## 8.	__Bootstrap 4, Templates, And Building Your Startup Landing Page__
 
 
 app for creating users list
-*	https://mailchimp.com 
+*	[MailChimp](https://mailchimp.com)
 
 
 website with animation examples
-*	https://daneden.github.io/animate.css
+*	[Animate.css](https://daneden.github.io/animate.css)
 
 website for patterns:
 *	https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
 *	http://mashup-template.com/templates.html
 *	https://startbootstrap.com/template-categories/all/
-*	https://mdbootstrap.com/freebies/
-*	https://www.creative-tim.com/
+*	[Mdbootstrap](https://mdbootstrap.com/freebies/)
+*	[Creative Tim](https://www.creative-tim.com/)
 
 
 generating animatied patterns 
-*	https://daneden.github.io/animate.css/
+*	[Animate.css](https://daneden.github.io/animate.css/)
 
 
 Installing  Github
-*	https://desktop.github.com/
+*	[GitHub Desktop](https://desktop.github.com/)
 
 ******************************************************************************************
 ## 9.	__Career Of A Web Developer__
@@ -99,11 +104,11 @@ Installing  Github
 
 
 Reference websites:
-*	https://developer.mozilla.org/en-US/docs/web/Events
+*	[Web Events](https://developer.mozilla.org/en-US/docs/web/Events)
 *	https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
-*	https://jquery.com/
+*	[Jquery](https://jquery.com/)
 *	http://youmightnotneedjquery.com/
-*	https://babeljs.io/
+*	[Babel](https://babeljs.io/)
 
 ******************************************************************************************
 ## 12.	__Advanced Javascript__
@@ -169,8 +174,8 @@ cls - clear the terminal screen
 
 
 Install Git:
-*	https://www.atlassian.com/git/tutorials/install-git#windows
-*	https://www.atlassian.com/git/tutorials/install-git
+*	[Windows Tutorial](https://www.atlassian.com/git/tutorials/install-git#windows)
+*	[Tutorial](https://www.atlassian.com/git/tutorials/install-git)
 
 
 ```
@@ -232,14 +237,12 @@ npm install
 npm install –g browserify
 ```
 
-install node and npm	
-*	https://www.npmjs.com/get-npm
-*	https://nodejs.org/es/
+install [node](https://nodejs.org/es/) and [npm](https://www.npmjs.com/get-npm)	
 
-Reference websites:
-*	https://www.npmjs.com/
-*	https://www.npmjs.com/package/react
-*	https://lodash.com/
+Reference links:
+*	[npm](https://www.npmjs.com/)
+*	[React](https://www.npmjs.com/package/react)
+*	[Lowdash](https://lodash.com/)
 
 ******************************************************************************************
 ## 18.	__React.js + Redux__
@@ -298,9 +301,9 @@ npm install redux-thunk
 ******************************************************************************************
 ## 21. __APIs__
 ******************************************************************************************
-*	https://stripe.com/docs/api
-*	https://www.twilio.com/docs/api/messaging/send-messages
-*	https://apilist.fun
+*	[Stripe api docs](https://stripe.com/docs/api)
+*	[Twillo api docs](https://www.twilio.com/docs/api/messaging/send-messages)
+*	[List of apis ](https://apilist.fun)
 
 
 ******************************************************************************************
@@ -724,4 +727,3 @@ heroku pg:psql
 ******************************************************************************************
 ## 29.	__Bonus: AMA + Developer Morning Routine__
 ******************************************************************************************
-
